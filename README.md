@@ -1,6 +1,6 @@
 # BudgetTracker
 ![License Badge](https://img.shields.io/badge/license-GNU%20GPLv3-green)
-![BudgetTrackerSS](/public/icons/budgettracker.png)
+![BudgetTrackerSS](/public/icons/budgettracker.PNG)
 ## Description
 An app for tracking basic deposits and withdrawls.
 ## Table of Contents
