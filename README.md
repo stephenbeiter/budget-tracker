@@ -11,7 +11,7 @@ An app for tracking basic deposits and withdrawls.
 * [Tests](#Tests)
 * [Questions](#Questions)
 ## Installation
-To install, go to budtrkr.herokuapp.com and install through the browser.
+To install, go to [budtrkr.herokuapp.com](budtrkr.herokuapp.com) and install through the browser.
 ## Usage
 To use, simply add a name for the transaction, add an amount, then click the add or subtract funds button.
 ## License
